@@ -5,7 +5,8 @@ Landing page responsiva desenvolvida para **captura de leads** da HONOR, oferece
 Projeto focado em **performance, UX, responsividade e identidade premium**, seguindo padrões modernos de front-end.
 
 🔗 **Preview online:**  
-👉 https://herbertis.github.io/Honor-10off/
+👉 https://herbertis.github.io/Honor-10off-page/
+👉 https://www.honor.com.br/cupom10off
 
 ---
 
